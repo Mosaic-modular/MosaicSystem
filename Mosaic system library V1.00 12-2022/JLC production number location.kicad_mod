@@ -1,0 +1,20 @@
+(footprint "JLC production number location" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 0)
+  (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp b88a294a-ce6d-41f6-9ca3-1f02563fe916)
+  )
+  (fp_text value "JLC production number location" (at 0 1 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 8b484c94-6f13-4f78-b705-0ebe0e8eaeb9)
+  )
+  (fp_text user "JLCJLCJLCJLC" (at 0 0 unlocked) (layer "B.SilkS")
+    (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    (tstamp af774427-ae51-47d3-ab38-b92399ba089d)
+  )
+  (fp_text user "${REFERENCE}" (at 0 2.5 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 7d0d28e1-a563-4755-9b11-64553bba9da7)
+  )
+)
