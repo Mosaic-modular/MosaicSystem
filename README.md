@@ -40,7 +40,7 @@ Original files and system designed by [Mosaic modular synthesizers](https://gith
 
 ## License
 
-This project is licensed under the **MIT license**.
+This project is licensed under the **CERN OHL v2 Weakly Reciprocal **.
 
 See [LICENSE](LICENSE) for more information.
 
