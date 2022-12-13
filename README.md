@@ -13,7 +13,7 @@
   <br />
   <a href="https://github.com/Mosaic-modular/mosaic-system-design-guidelines/issues/new?assignees=&labels=bug&template=01_BUG_REPORT.md&title=bug%3A+">Report a Bug</a>
   ·
-  <a href="https://github.com/Mosaic-modular/mosaic-system-design-guidelines/issues/new?assignees=&labels=enhancement&template=02_FEATURE_REQUEST.md&title=feat%3A+">Request a Feature</a>
+
   .
   <a href="https://github.com/Mosaic-modular/mosaic-system-design-guidelines/issues/new?assignees=&labels=question&template=04_SUPPORT_QUESTION.md&title=support%3A+">Ask a Question</a>
 </div>
@@ -24,31 +24,10 @@
 
 ## About
 
-> **[?]**
-> Provide general information about your project here.
-> What problem does it (intend to) solve?
-> What is the purpose of your project?
-> Why did you undertake it?
-> You don't have to answer all the questions -- just the ones relevant to your project.
-
-
-
-### Built With
-
-> **[?]**
-> Please provide the technologies that are used in the project.
+Design files for use with the open source Mosaic system.
+For more info, please visit   <a href="https://mosaicsynth.com/index.php/system-info/">Mosaicsynth.com</a>
 
 ## Getting Started
-
-### Prerequisites
-
-> **[?]**
-> What are the project requirements/dependencies?
-
-### Installation
-
-> **[?]**
-> Describe how to install and get started with the project.
 
 ## Usage
 
