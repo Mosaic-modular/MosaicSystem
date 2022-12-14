@@ -3,13 +3,13 @@
     <!-- Please provide path to your logo here -->
     <img src="docs/images/MMlogo3.png" alt="Logo" width="100" height="100">
   </a>
-  <img align="center" src="docs/images/IMG_20220603_103824384.jpg" alt="MM system" width="640" height="360">
+  
 </h1>
 
 <div align="center">
   Mosaic system design guidelines
   <br />
-  <a href="#about"><strong>Explore the docs »</strong></a>
+    <img align="center" src="docs/images/IMG_20220603_103824384.jpg" alt="MM system" width="640" height="360">
   <br />
 
   <a href="https://github.com/Mosaic-modular/mosaic-system-design-guidelines/issues/new?assignees=&labels=question&template=04_SUPPORT_QUESTION.md&title=support%3A+">Ask a Question</a>
