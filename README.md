@@ -25,12 +25,6 @@ For more info, please visit   <a href="https://mosaicsynth.com/index.php/system-
 
 ## Getting Started
 
-## Usage
-
-> **[?]**
-> How does one go about using it?
-> Provide various use cases and code examples here.
-
 ## Support
 <a href = "https://mosaicsynth.com/index.php/contact/"> contact form </a>
 
@@ -40,7 +34,7 @@ Original files and system designed by [Mosaic modular synthesizers](https://gith
 
 ## License
 
-This project is licensed under the **CERN OHL v2 Weakly Reciprocal **.
+This project is licensed under the <a href="https://ohwr.org/cern_ohl_w_v2.pdf">CERN OHL v2 W</a> license. 
 
 See [LICENSE](LICENSE) for more information.
 
