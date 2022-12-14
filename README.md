@@ -3,6 +3,7 @@
     <!-- Please provide path to your logo here -->
     <img src="docs/images/MMlogo3.png" alt="Logo" width="100" height="100">
   </a>
+  <img align="center" src="docs/images/IMG_20220603_103824384.jpg" alt="MM system" width="640" height="360">
 </h1>
 
 <div align="center">
@@ -17,7 +18,6 @@
 
 
 ---
-<img align="center" src="docs/images/IMG_20220603_103824384.jpg" alt="MM system" width="640" height="360">
 
 ## About
 
@@ -25,6 +25,15 @@ Design files for use with the open source Mosaic system.
 For more info, please visit   <a href="https://mosaicsynth.com/index.php/system-info/">Mosaicsynth.com</a>
 
 ## Getting Started
+Copy the content of the templates folder to the user templates folder:
+
+    Unix: ~/kicad/template/
+
+    Windows: C:\Documents and Settings\username\My Documents\kicad\template or C:\Users\username\Documents\kicad\template
+
+    Mac: ~/Documents/kicad/template/
+
+
 
 ## Support
 <a href = "https://mosaicsynth.com/index.php/contact/"> contact form </a>
