@@ -17,6 +17,7 @@
 
 
 ---
+<img src="docs/images/IMG_20220603_103824384.jpg" alt="MM system" width="640" height="640">
 
 ## About
 
