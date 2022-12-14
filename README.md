@@ -1,6 +1,4 @@
 <h1 align="center">
-  <a href="https://github.com/Mosaic-modular/mosaic-system-design-guidelines">
-    <!-- Please provide path to your logo here -->
     <img src="docs/images/MMlogo3.png" alt="Logo" width="100" height="100">
     <br />
     Mosaic system design guidelines
