@@ -1,22 +1,21 @@
-(footprint "BANANA_4mm_non_insulated_banana_jack" (version 20211014) (generator pcbnew)
+(footprint "BANANA_4mm_non_insulated_banana_jack" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 0)
   (property "Sheetfile" "2022-11 Sloper V2.2 kicad redesign.kicad_sch")
   (property "Sheetname" "")
   (attr through_hole)
   (fp_text reference "J2" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
-    (effects (font (size 1 1) (thickness 0.15)))
+      (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 45fe1c18-c155-4cf2-9e9c-5f2dffc86bdc)
   )
-  (fp_text value "INPUT" (at 0 1 unlocked) (layer "F.Fab") hide
-    (effects (font (size 1 1) (thickness 0.15)))
+  (fp_text value "INPUT" (at 0 1 unlocked) (layer "F.Fab")
+      (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 8d2db4f4-6a56-42fd-be7a-344b6eb5e596)
   )
   (fp_text user "${REFERENCE}" (at 0 2.5 unlocked) (layer "F.Fab") hide
-    (effects (font (size 1 1) (thickness 0.15)))
+      (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 6894206e-5028-47ed-9694-58a6920e2557)
   )
-  (pad "1" thru_hole circle (at 0 0) (size 7.5 7.5) (drill 5.8) (layers *.Cu *.Mask) (tstamp dbfd79f0-3753-403a-b6f9-aede7c3c58e5))
+  (pad "1" thru_hole circle (at 0 0) (size 7.5 7.5) (drill 5.8) (layers "*.Cu" "*.Mask") (tstamp dbfd79f0-3753-403a-b6f9-aede7c3c58e5))
   (model "C:/Users/baas/OneDrive/Documenten/0-3d models/0-electronic 3d component models/bananasocket v8.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))

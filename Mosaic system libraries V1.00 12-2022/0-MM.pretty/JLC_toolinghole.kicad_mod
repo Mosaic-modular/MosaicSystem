@@ -1,0 +1,15 @@
+(footprint "JLC_toolinghole" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (property "Sheetfile" "2023-03 output module V2.kicad_sch")
+  (property "Sheetname" "")
+  (fp_text reference "REF10" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 6dd6c02b-28e6-4ae2-881d-d24d754b5eca)
+  )
+  (fp_text value "JLC_PCBA_tooling_holes" (at 0 1.25 unlocked) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 800d48d1-fe59-4105-a1e5-06fc664261fc)
+  )
+  (pad "" np_thru_hole circle (at 0 0) (size 1.152 1.152) (drill 1.152) (layers "F&B.Cu" "*.Mask")
+    (solder_mask_margin 0.148) (tstamp e0097d03-dfd5-4854-9e5a-0b841bde863f))
+)
