@@ -1538,10 +1538,10 @@
     (property "Datasheet" "" (at 129.54 278.13 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "" (uuid 59db33b4-ee91-473a-b69f-508503c136ea))
-    (pin "" (uuid 59db33b4-ee91-473a-b69f-508503c136ea))
-    (pin "" (uuid 59db33b4-ee91-473a-b69f-508503c136ea))
-    (pin "" (uuid 59db33b4-ee91-473a-b69f-508503c136ea))
+    (pin "" (uuid 59db33b4-ee91-473a-b69f-508503c136ed))
+    (pin "" (uuid 59db33b4-ee91-473a-b69f-508503c136ed))
+    (pin "" (uuid 59db33b4-ee91-473a-b69f-508503c136ed))
+    (pin "" (uuid 59db33b4-ee91-473a-b69f-508503c136ed))
     (instances
       (project "MM 50x100 template"
         (path "/0f067944-76fd-4dce-9545-cc367bee6080"
