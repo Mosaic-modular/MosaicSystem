@@ -8,7 +8,7 @@
 
 <div align="center">
   <br />
-    <img align="center" src="docs/images/MM02.png" alt="MM system" width="640" height="360">
+    <img align="center" src="docs/images/MM_02.jpg" alt="MM system" width="640" height="360">
   <br />
 </div>
 
