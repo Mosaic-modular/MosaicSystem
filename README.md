@@ -16,6 +16,21 @@
 
 ---
 
+## Getting Started
+Copy the content of the templates folder to the user templates folder:
+
+    Unix: ~/kicad/template/
+
+    Windows: C:\Documents and Settings\username\My Documents\kicad\template or C:\Users\username\Documents\kicad\template
+
+    Mac: ~/Documents/kicad/template/
+
+Go to <b> File → New Project → New Project from Template </b> and select the template you want from the user templates tab.
+
+The templates come with all of the design rules and settings needed to design your mosaic system modules and have them manufactured by JLCPCB. If you use another manufacturer please make sure to check the design rules. 
+
+All of the symbols have the preferred footprint already assigned so you can just duplicate the ones you need and after you have finished your design delete all the unwanted parts. 
+
 ## About
 
 Design files for use with the open source Mosaic system. All the footprints are verified and fully tested.
@@ -42,25 +57,6 @@ For more info, please visit <a href="https://mosaicsynth.com/index.php/system-in
 12. Solder, assemble, make incredible music.
 13. Share your project and let other know what you've made.
 
-
-## Getting Started
-Copy the content of the templates folder to the user templates folder:
-
-    Unix: ~/kicad/template/
-
-    Windows: C:\Documents and Settings\username\My Documents\kicad\template or C:\Users\username\Documents\kicad\template
-
-    Mac: ~/Documents/kicad/template/
-
-Go to <b> File → New Project → New Project from Template </b> and select the template you want from the user templates tab.
-
-The templates come with all of the design rules and settings needed to design your mosaic system modules and have them manufactured by JLCPCB. If you use another manufacturer please make sure to check the design rules. 
-
-All of the symbols have the preferred footprint already assigned so you can just duplicate the ones you need and after you have finished your design delete all the unwanted parts. 
-
-Please make sure to <b>include the Mosaic logo and a link to the mosaicsynth.com website</b>. 
-
-If you made something cool, please send us a picture. We would love to see what you have made!
 
 ## Support
 <a href = "https://mosaicsynth.com/index.php/contact/"> contact form </a>
