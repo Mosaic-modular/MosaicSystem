@@ -16,6 +16,11 @@
 
 ---
 
+## About
+
+Design files for use with the open source Mosaic system. All the footprints are verified and fully tested.
+For more info, please visit <a href="https://mosaicsynth.com/index.php/system-info/">Mosaicsynth.com</a>
+
 ## Getting Started
 Copy the content of the templates folder to the user templates folder:
 
@@ -31,10 +36,6 @@ The templates come with all of the design rules and settings needed to design yo
 
 All of the symbols have the preferred footprint already assigned so you can just duplicate the ones you need and after you have finished your design delete all the unwanted parts. 
 
-## About
-
-Design files for use with the open source Mosaic system. All the footprints are verified and fully tested.
-For more info, please visit <a href="https://mosaicsynth.com/index.php/system-info/">Mosaicsynth.com</a>
 
 ## Workflow
 
