@@ -16,7 +16,7 @@
     (tstamp 6894206e-5028-47ed-9694-58a6920e2557)
   )
   (pad "1" thru_hole circle (at 0 0) (size 7.5 7.5) (drill 5.8) (layers "*.Cu" "*.Mask") (tstamp dbfd79f0-3753-403a-b6f9-aede7c3c58e5))
-  (model "C:/Users/baas/OneDrive/Documenten/0-3d models/0-electronic 3d component models/bananasocket v8.step"
+  (model "C:/Users/baas/OneDrive/Documenten/0-3d models/0-electronic 3d component models/bananasocket.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

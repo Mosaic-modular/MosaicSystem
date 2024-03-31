@@ -1,0 +1,100 @@
+(footprint "MM50x100_JLC_toolingholes_with_paste"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "5fde9b3b-a7a0-4bb9-9191-88d5478e3932")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "MM50x100_JLC_toolingholes_with_paste"
+		(at 0 2 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1b112fcf-87c5-4d6e-a04f-9b4812d92b6d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "41638e5e-3223-4d10-bbf1-1486a670880a")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4a16081f-2459-4335-b7b5-c1d78eefc5d4")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "67704d04-07b6-4409-9088-fdd5d3f69a1a")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(pad "" np_thru_hole circle
+		(at -22.01962 46.999999)
+		(size 1.152 1.152)
+		(drill 1.152)
+		(layers "F&B.Cu" "*.Mask" "B.Paste")
+		(solder_mask_margin 0.148)
+		(uuid "96bcaf73-1e28-4a6d-bf68-ab67cfa4727a")
+	)
+	(pad "" np_thru_hole circle
+		(at -22 -47)
+		(size 1.152 1.152)
+		(drill 1.152)
+		(layers "F&B.Cu" "*.Mask" "B.Paste")
+		(solder_mask_margin 0.148)
+		(uuid "bb8f2161-aa31-449a-b9f5-6cd688a8013c")
+	)
+	(pad "" np_thru_hole circle
+		(at 22 -47)
+		(size 1.152 1.152)
+		(drill 1.152)
+		(layers "F&B.Cu" "*.Mask" "B.Paste")
+		(solder_mask_margin 0.148)
+		(uuid "19a271d2-6ded-4466-9f75-a7adf965109c")
+	)
+	(pad "" np_thru_hole circle
+		(at 22 47)
+		(size 1.152 1.152)
+		(drill 1.152)
+		(layers "F&B.Cu" "*.Mask" "B.Paste")
+		(solder_mask_margin 0.148)
+		(uuid "b71ca038-a96e-4d04-9204-45936d2c50d7")
+	)
+)

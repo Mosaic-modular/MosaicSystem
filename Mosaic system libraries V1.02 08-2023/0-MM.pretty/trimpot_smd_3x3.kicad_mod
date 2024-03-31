@@ -41,7 +41,7 @@
   (pad "1" smd rect (at -1.8 -1) (size 1.2 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 4ac715a2-a127-48c0-8ac9-82d7313f43cd))
   (pad "2" smd rect (at 1.45 0 270) (size 1.6 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f8100776-52b1-4c18-9e4f-34a53e1fb35a))
   (pad "3" smd rect (at -1.8 1) (size 1.2 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d3a4cefc-90df-4dbe-aab9-75f78880adab))
-  (model "C:/Users/baas/OneDrive/Documenten/0-3d models/0-electronic 3d component models/TC33X-2-104E.step"
+  (model "C:/Users/baas/OneDrive/Documenten/0-3d models/0-electronic 3d component models/TC33X-2-104E v2.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 90))
