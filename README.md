@@ -41,11 +41,11 @@ All of the symbols have the preferred footprint already assigned so you can just
 
 1. In kicad file -> new project from template -> user templates and select the one you need. (See getting started on how use the custom templates in kicad)
 2. Start with the schematic and design your circuit. I have included some commonly used symbols so you can just copy and paste them to get started. It is good practice to make your schematic clean and easy to read. A few tips:
-   -Always make sure you have at least a 2 space wire between components. This avoids having to connect components directly and makes it easier to move things around later.
-   -Avoid points where 4 wires connect. This can be confusing when it's not quite clear wich wires connect to wich.
-   -Only use right angle wires and space your symbols enough to make it easily readable.
-   -Ground symbols always point down and power symbols always point up. (negative voltages like -12V are the exception and they point down)
-   -Use standard symbols as much as possible, this helps with compatability. There are only a few Mosaic specific symbols like the input, output and power connector.
+   - Always make sure you have at least a 2 space wire between components. This avoids having to connect components directly and makes it easier to move things around later.
+   - Avoid points where 4 wires connect. This can be confusing when it's not quite clear wich wires connect to wich.
+   - Only use right angle wires and space your symbols enough to make it easily readable.
+   - Ground symbols always point down and power symbols always point up. (negative voltages like -12V are the exception and they point down)
+   - Use standard symbols as much as possible, this helps with compatability. There are only a few Mosaic specific symbols like the input, output and power connector.
 3. After your design is done you can delete any of the unused spare symbols and decide on the options on the lower part of the schematic template. You can include the logo and some JLCPCB specific parts like a production number placeholder or tooling holes for automated assembly.
 4. When your schematic is fully done, triple check everything and move on to assigning footprints.
 5. Create a PCB from the schematic and place the components off to the side for now. The template comes with the standard design rules for the JLCPCB 2 layer boards and some common trace widths and via sizes.
